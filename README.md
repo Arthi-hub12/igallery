@@ -114,11 +114,11 @@ gallery.html
 
   <div class="gallery">
     <!-- Five images -->
-    <img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f" alt="Classroom of the Elite 1" onclick="openLightbox(this.src)">
-    <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644" alt="Classroom of the Elite 2" onclick="openLightbox(this.src)">
-    <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b" alt="Classroom of the Elite 3" onclick="openLightbox(this.src)">
-    <img src="https://images.unsplash.com/photo-1513258496099-48168024aec0" alt="Classroom of the Elite 4" onclick="openLightbox(this.src)">
-    <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7" alt="Classroom of the Elite 5" onclick="openLightbox(this.src)">
+    <img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f" alt="Classroom 1" onclick="openLightbox(this.src)">
+    <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644" alt="Classroom 2" onclick="openLightbox(this.src)">
+    <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b" alt="Classroom 3" onclick="openLightbox(this.src)">
+    <img src="https://images.unsplash.com/photo-1513258496099-48168024aec0" alt="Classroom 4" onclick="openLightbox(this.src)">
+    <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7" alt="Classroom 5" onclick="openLightbox(this.src)">
   </div>
 
   <!-- Lightbox -->
